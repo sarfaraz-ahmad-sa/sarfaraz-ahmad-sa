@@ -15,7 +15,7 @@
 
 ## About Me
 
-I'm a **Full-Stack Developer and Team Lead** with **5+ years of experience** building secure, scalable, and business-focused software. For more than **4 years**, I have also led development teams, coordinated releases, reviewed code, and supported production-critical systems.
+I'm a **Full-Stack Developer and Team Lead** with **6+ years of experience** building secure, scalable, and business-focused software. For more than **4 years**, I have also led development teams, coordinated releases, reviewed code, and supported production-critical systems.
 
 My strongest area is turning complex business workflows into reliable software鈥攅specially **multi-branch ERP, CRM, POS, inventory, finance, reporting, mobile apps, and system integrations**.
 
@@ -30,7 +30,7 @@ My strongest area is turning complex business workflows into reliable software鈥
 
 <div align="center">
 
-| 5+ Years | 4+ Years Leading | Enterprise Focus | Full Product Delivery |
+| 6+ Years | 5+ Years Leading | Enterprise Focus | Full Product Delivery |
 | :---: | :---: | :---: | :---: |
 | Software engineering | Development teams | ERP 路 CRM 路 POS 路 SaaS | Web 路 API 路 Mobile 路 Database |
 
