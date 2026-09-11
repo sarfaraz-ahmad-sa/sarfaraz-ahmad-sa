@@ -1,14 +1,13 @@
 <div align="center">
 
-# Hi, I'm Sarfaraz Ahmad 👋
-
-### Full-Stack Developer · Backend Engineer · Team Lead
+![Sarfaraz Ahmad Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,55:1158C7,100:2F81F7&height=230&section=header&text=Sarfaraz%20Ahmad&fontSize=48&fontColor=FFFFFF&fontAlignY=35&desc=Full-Stack%20Developer%20%E2%80%A2%20Backend%20Engineer%20%E2%80%A2%20Team%20Lead&descSize=18&descAlignY=56&animation=fadeIn)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=780&lines=Building+Scalable+ERP%2C+CRM+%26+POS+Solutions;Laravel+%7C+React+%7C+Flutter+%7C+SQL+Server;Turning+Complex+Business+Problems+into+Simple+Software)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=sarfaraz-ahmad-sa&label=Profile%20Views&color=2f81f7&style=for-the-badge)](https://github.com/sarfaraz-ahmad-sa)
 [![GitHub Followers](https://img.shields.io/github/followers/sarfaraz-ahmad-sa?label=Followers&style=for-the-badge&logo=github)](https://github.com/sarfaraz-ahmad-sa?tab=followers)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarfaraz-ahmad-511a46238)
+[![Open to Work](https://img.shields.io/badge/Open_to_Work-Available-238636?style=for-the-badge&logo=opentofu&logoColor=white)](mailto:sarfaraza19990@gmail.com)
 
 </div>
 
@@ -16,7 +15,9 @@
 
 ## About Me
 
-I'm a **Full-Stack Developer and Team Lead** with **5+ years of experience** building secure, scalable, and business-focused software. I specialize in enterprise applications, multi-branch ERP systems, CRM, POS, workflow automation, API integrations, reporting, and performance optimization.
+I'm a **Full-Stack Developer and Team Lead** with **6+ years of experience** building secure, scalable, and business-focused software. For more than **4 years**, I have also led development teams, coordinated releases, reviewed code, and supported production-critical systems.
+
+My strongest area is turning complex business workflows into reliable software—especially **multi-branch ERP, CRM, POS, inventory, finance, reporting, mobile apps, and system integrations**.
 
 - 🔭 Building enterprise-grade **ERP, CRM, POS, and SaaS products**
 - 👥 Leading developers and managing production releases
@@ -24,6 +25,16 @@ I'm a **Full-Stack Developer and Team Lead** with **5+ years of experience** bui
 - 📱 Developing cross-platform mobile applications with Flutter
 - 🧠 Focused on clean architecture, performance, security, and maintainability
 - 📍 Based in Karachi, Pakistan
+
+## At a Glance
+
+<div align="center">
+
+| 6+ Years | 4+ Years Leading | Enterprise Focus | Full Product Delivery |
+| :---: | :---: | :---: | :---: |
+| Software engineering | Development teams | ERP · CRM · POS · SaaS | Web · API · Mobile · Database |
+
+</div>
 
 ## Technology Stack
 
@@ -69,15 +80,35 @@ Mobile Development   Flutter · Android · iOS · Firebase · Supabase
 Team Leadership      Planning · Code Review · Releases · Production Support
 ```
 
+## Engineering Impact
+
+- Built and enhanced business modules across **sales, inventory, dispatch, accounts, finance, HR, and reporting**
+- Delivered **multi-branch ERP and POS workflows** with reliable synchronization and business-rule validation
+- Designed and integrated **REST APIs**, JSON/XML services, Shopify, WooCommerce, and third-party platforms
+- Improved large SQL Server workloads using **stored procedures, views, triggers, indexing, and query optimization**
+- Managed controlled delivery from **development → staging → verification → production**
+- Shipped and maintained Flutter applications across **Android and iOS**
+
+## How I Build Systems
+
+```mermaid
+flowchart TD
+    A["Web & Mobile Apps"] --> B["Secure API Layer"]
+    B --> C["ERP · CRM · POS Modules"]
+    C --> D["SQL Server · MySQL · Supabase"]
+    E["Shopify · WooCommerce · External APIs"] --> B
+    F["Automation · Reports · Monitoring"] --> C
+```
+
 ## Featured Work
 
 | Project | What it demonstrates | Core technologies |
 | --- | --- | --- |
-| **Enterprise ERP & POS** | Multi-branch sales, inventory, dispatch, accounts, reporting, and integrations | PHP, Laravel, SQL Server, REST APIs |
-| **School Management SaaS** | Role-based multi-school platform with dashboards, reports, and scalable data architecture | Flutter Web, Supabase, Firebase |
-| **JinnTV** | Cross-platform entertainment application with analytics integrations | Flutter, Dart, APIs |
-| **iCare** | Production mobile application for Android and iOS | Flutter, Dart, Firebase |
-| **KhataNova** | Personal finance, budgeting, savings, loans, and Khata management | Flutter, Supabase |
+| 🏢 **Enterprise ERP & POS** | Multi-branch sales, inventory, dispatch, accounts, reporting, and integrations | PHP, Laravel, SQL Server, REST APIs |
+| 🎓 **School Management SaaS** | Role-based multi-school platform with dashboards, reports, and scalable data architecture | Flutter Web, Supabase, Firebase |
+| 📺 **JinnTV** | Cross-platform entertainment application with analytics integrations | Flutter, Dart, APIs |
+| 💙 **iCare** | Production mobile application for Android and iOS | Flutter, Dart, Firebase |
+| 💰 **KhataNova** | Personal finance, budgeting, savings, loans, and Khata management | Flutter, Supabase |
 
 > Some enterprise projects are private because they contain client-owned business logic and production data. Architecture and feature walkthroughs can be shared when appropriate.
 
@@ -89,6 +120,8 @@ Team Leadership      Planning · Code Review · Releases · Production Support
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarfaraz-ahmad-sa&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Most used languages" />
 
 <img src="https://streak-stats.demolab.com?user=sarfaraz-ahmad-sa&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=sarfaraz-ahmad-sa&theme=github-compact&hide_border=true&area=true" alt="Sarfaraz Ahmad's contribution graph" />
 
 </div>
 
@@ -110,5 +143,7 @@ I'm open to **Senior Full-Stack**, **Backend Engineering**, **Software Developme
 [![GitHub](https://img.shields.io/badge/GitHub-sarfaraz--ahmad--sa-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sarfaraz-ahmad-sa)
 
 ### “I build software that makes complex business operations simpler.”
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,100:0D1117&height=110&section=footer)
 
 </div>
