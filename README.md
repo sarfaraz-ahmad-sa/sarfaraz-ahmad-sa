@@ -138,6 +138,19 @@ flowchart TD
 
 > Some enterprise projects are private because they contain client-owned business logic and production data. Architecture and feature walkthroughs can be shared when appropriate.
 
+## Projects
+
+<div align="center">
+
+| Repository | Description | Status |
+| --- | --- | --- |
+| [python-automation/](python-automation) | Business automation scripts (CRM, PDF exports, data sync) | 🟡 Active |
+| [laravel-projects/](laravel-projects) | Laravel-based web applications | 🔜 Coming Soon |
+| [flutter-apps/](flutter-apps) | Cross-platform mobile applications | 🔜 Coming Soon |
+| [team-tools/](team-tools) | Team management & workflow tools | 🔜 Coming Soon |
+
+</div>
+
 ## GitHub Activity
 
 <div align="center">
