@@ -186,3 +186,8 @@ I'm open to **Senior Full-Stack**, **Backend Engineering**, **Software Developme
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,100:0D1117&height=110&section=footer)
 
 </div>
+
+
+---
+
+🌐 **[Portfolio Website](https://sarfaraz-ahmad-sa.github.io/sarfaraz-ahmad-sa/)** · [Portfolio source](docs/) (enable GitHub Pages from `/docs` to publish).
