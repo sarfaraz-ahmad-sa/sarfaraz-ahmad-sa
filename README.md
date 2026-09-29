@@ -1,193 +1,123 @@
+<!-- GitHub Profile README | Repository name: sarfaraz-ahmad-sa -->
+
 <div align="center">
 
-![Sarfaraz Ahmad Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,55:1158C7,100:2F81F7&height=230&section=header&text=Sarfaraz%20Ahmad&fontSize=48&fontColor=FFFFFF&fontAlignY=35&desc=Full-Stack%20Developer%20%E2%80%A2%20Backend%20Engineer%20%E2%80%A2%20Team%20Lead&descSize=18&descAlignY=56&animation=fadeIn)
+<img width="100%" alt="Sarfaraz Ahmad — Full-Stack Developer, Backend Engineer and Team Lead" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1158C7,100:2F81F7&height=235&section=header&text=Sarfaraz%20Ahmad&fontSize=48&fontColor=FFFFFF&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Backend%20Engineer%20%7C%20Team%20Lead&descSize=18&descAlignY=56&animation=fadeIn" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=780&lines=Building+Scalable+ERP%2C+CRM+%26+POS+Solutions;Laravel+%7C+React+%7C+Flutter+%7C+SQL+Server;Turning+Complex+Business+Problems+into+Simple+Software)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img alt="Professional focus" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1200&color=2F81F7&center=true&vCenter=true&width=850&lines=Engineering+ERP%2C+CRM+%26+POS+Solutions;PHP+%7C+Laravel+%7C+React+%7C+Flutter+%7C+SQL+Server;Building+APIs%2C+Automations+%26+SaaS+Products;Leading+Teams+from+Development+to+Production" /></a>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=sarfaraz-ahmad-sa&label=Profile%20Views&color=2f81f7&style=for-the-badge)](https://github.com/sarfaraz-ahmad-sa)
-[![GitHub Followers](https://img.shields.io/github/followers/sarfaraz-ahmad-sa?label=Followers&style=for-the-badge&logo=github)](https://github.com/sarfaraz-ahmad-sa?tab=followers)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarfaraz-ahmad-511a46238)
-[![Open to Work](https://img.shields.io/badge/Open_to_Work-Available-238636?style=for-the-badge&logo=opentofu&logoColor=white)](mailto:sarfaraza19990@gmail.com)
+<a href="https://github.com/sarfaraz-ahmad-sa"><img alt="Profile views" src="https://komarev.com/ghpvc/?username=sarfaraz-ahmad-sa&label=PROFILE+VIEWS&color=2f81f7&style=flat-square" /></a>
+<a href="https://github.com/sarfaraz-ahmad-sa?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/sarfaraz-ahmad-sa?label=FOLLOWERS&style=flat-square&logo=github&color=238636" /></a>
+<a href="https://www.linkedin.com/in/sarfaraz-ahmad-511a46238"><img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:sarfaraza19990@gmail.com"><img alt="Email" src="https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+
+**Karachi, Pakistan** · Open to Senior Full-Stack, Backend Engineering & Software Development Lead opportunities
 
 </div>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-I'm a **Full-Stack Developer and Team Lead** with **6+ years of experience** building secure, scalable, and business-focused software. For more than **4 years**, I have also led development teams, coordinated releases, reviewed code, and supported production-critical systems.
+I’m a **Full-Stack Developer & Team Lead with 6+ years of software engineering experience**, including **4+ years in development leadership**. I design, build and maintain business-critical platforms, with a focus on **ERP, CRM, POS, multi-branch operations and SaaS**.
 
-My strongest area is turning complex business workflows into reliable software—especially **multi-branch ERP, CRM, POS, inventory, finance, reporting, mobile apps, and system integrations**.
+My work spans backend architecture, database engineering, web and mobile development, integration, team coordination and production delivery. I enjoy translating complex workflows into secure, maintainable and practical software.
 
-- 🔭 Building enterprise-grade **ERP, CRM, POS, and SaaS products**
-- 👥 Leading developers and managing production releases
-- ⚙️ Designing APIs, database workflows, automation, and integrations
-- 📱 Developing cross-platform mobile applications with Flutter
-- 🧠 Focused on clean architecture, performance, security, and maintainability
-- 📍 Based in Karachi, Pakistan
+- 🏢 Build ERP/CRM/POS modules for sales, inventory, dispatch, accounts, finance and reporting.
+- 🧩 Engineer REST APIs, third-party integrations, multi-tenant workflows and automation.
+- 🗄️ Optimize SQL Server/MySQL queries, stored procedures, views, triggers and indexes.
+- 📱 Deliver cross-platform mobile products using Flutter and Dart.
+- 👥 Lead code reviews, releases, environment coordination and developer mentoring.
+- 🎯 Prioritize maintainability, performance, business correctness and dependable delivery.
 
-## At a Glance
+## 🛠️ Technology Stack
 
-<div align="center">
+**Backend & APIs**
 
-| 6+ Years | 5+ Years Leading | Enterprise Focus | Full Product Delivery |
-| :---: | :---: | :---: | :---: |
-| Software engineering | Development teams | ERP · CRM · POS · SaaS | Web · API · Mobile · Database |
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white) ![Yii](https://img.shields.io/badge/Yii-40B3D8?style=for-the-badge) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![REST API](https://img.shields.io/badge/REST-APIs-005571?style=for-the-badge)
 
-</div>
+**Frontend & Mobile**
 
-## Core Skills
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-| Priority | Skills |
-| --- | --- |
-| **Primary Expertise** | PHP, Laravel, SQL Server, REST APIs, ERP/CRM/POS Architecture, Team Leadership |
-| **Strong Product Skills** | Flutter, Dart, React.js, JavaScript, MySQL, Supabase, Firebase |
-| **Framework Experience** | CodeIgniter, Yii, jQuery, Python, .NET |
-| **Business Integrations** | Shopify, WooCommerce, JSON/XML APIs, POS Sync, Multi-tenant Workflows |
-| **Operations & Delivery** | Git, Code Review, CI/CD, Staging, Production Releases, Performance Monitoring |
+**Databases, Cloud & Backend Services**
 
-## Technology Stack
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### Backend & APIs
+**Tools, Platforms & Integrations**
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
-![Yii](https://img.shields.io/badge/Yii-40B3D8?style=for-the-badge&logo=yii&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
-![XML](https://img.shields.io/badge/XML-005FAD?style=for-the-badge&logo=xml&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge) ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white) ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-### Frontend & Mobile
+`Microsoft Dynamics` · `Perfex CRM` · `JSON/XML` · `Windows Server` · `CI/CD` · `Staging & Deployment`
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+## 🧠 Areas of Expertise
 
-### Databases & Cloud
+| Focus | What I work on |
+| :--- | :--- |
+| **Enterprise Applications** | ERP, CRM, POS, inventory, sales, dispatch, accounts, finance, HR |
+| **Backend Engineering** | API design, validation, business rules, integrations, workflow automation |
+| **Database Engineering** | Stored procedures, triggers, views, query optimization, reporting |
+| **Mobile Development** | Flutter, Android, iOS, Firebase and Supabase integrations |
+| **Delivery & Leadership** | Development planning, code reviews, staging, deployments, production support |
 
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+## 🚀 Selected Work
 
-### Platforms, Reporting & Delivery
+| Project | Highlights | Stack |
+| :--- | :--- | :--- |
+| **Enterprise ERP & POS** | Multi-branch sales, inventory, dispatch, accounts, reporting and third-party integration | PHP, Laravel, SQL Server, APIs |
+| **School Management SaaS** | Multi-school workflows, role-based access, dashboards and reporting | Flutter Web, Supabase, Firebase |
+| **JinnTV** | Cross-platform entertainment app and analytics integration | Flutter, Dart, REST APIs |
+| **iCare** | Mobile application development and release management | Flutter, Dart, Firebase |
+| **KhataNova** | Finance, budgeting, saving, loans and khata workflows | Flutter, Supabase |
+| **CRM & Reporting Automation** | Scheduled data preparation, report generation and exports | Python, SQL Server, CRM |
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
-![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
-![Microsoft Dynamics](https://img.shields.io/badge/Microsoft_Dynamics-002050?style=for-the-badge&logo=dynamics365&logoColor=white)
-![Perfex CRM](https://img.shields.io/badge/Perfex_CRM-1F75FE?style=for-the-badge&logo=bookstack&logoColor=white)
+> **Note:** Some enterprise/client repositories are private. I can discuss their architecture and my contributions without disclosing proprietary code or production data.
 
-## Professional Expertise
-
-```text
-Enterprise Systems   ERP · CRM · POS · Inventory · Accounts · Finance · HR · Sales
-Backend Engineering  REST APIs · Integrations · Multi-tenant Systems · Automation
-Database Engineering Stored Procedures · Triggers · Views · Query Optimization
-Mobile Development   Flutter · Android · iOS · Firebase · Supabase
-Release Engineering  Git Workflows · Staging · Deployment · Monitoring · Support
-Team Leadership      Planning · Mentoring · Code Review · Releases · Coordination
-```
-
-## Engineering Impact
-
-- Built and enhanced business modules across **sales, inventory, dispatch, accounts, finance, HR, and reporting**
-- Delivered **multi-branch ERP and POS workflows** with reliable synchronization and business-rule validation
-- Designed and integrated **REST APIs**, JSON/XML services, Shopify, WooCommerce, and third-party platforms
-- Improved large SQL Server workloads using **stored procedures, views, triggers, indexing, and query optimization**
-- Managed controlled delivery from **development → staging → verification → production**
-- Shipped and maintained Flutter applications across **Android and iOS**
-
-## Business Domains
-
-`ERP` · `CRM` · `POS` · `Sales` · `Inventory` · `Dispatch` · `Accounts` · `Finance` · `HR` · `Payroll` · `eCommerce` · `School Management` · `Reporting` · `Workflow Automation`
-
-## How I Build Systems
+## ⚙️ How I Approach Architecture
 
 ```mermaid
 flowchart TD
-    A["Web & Mobile Apps"] --> B["Secure API Layer"]
-    B --> C["ERP · CRM · POS Modules"]
-    C --> D["SQL Server · MySQL · Supabase"]
-    E["Shopify · WooCommerce · External APIs"] --> B
-    F["Automation · Reports · Monitoring"] --> C
+  A[Web & Mobile Clients] --> B[Authentication & API Layer]
+  B --> C[Business Modules: ERP / CRM / POS]
+  C --> D[(SQL Server / MySQL / Supabase)]
+  E[Shopify / WooCommerce / External Services] <--> B
+  F[Automation / Reporting / Monitoring] <--> C
 ```
 
-## Featured Work
-
-| Project | What it demonstrates | Core technologies |
-| --- | --- | --- |
-| 🏢 **Enterprise ERP & POS** | Multi-branch sales, inventory, dispatch, accounts, reporting, and integrations | PHP, Laravel, SQL Server, REST APIs |
-| 🎓 **School Management SaaS** | Role-based multi-school platform with dashboards, reports, and scalable data architecture | Flutter Web, Supabase, Firebase |
-| 📺 **JinnTV** | Cross-platform entertainment application with analytics integrations | Flutter, Dart, APIs |
-| 💙 **iCare** | Production mobile application for Android and iOS | Flutter, Dart, Firebase |
-| 💰 **KhataNova** | Personal finance, budgeting, savings, loans, and Khata management | Flutter, Supabase |
-
-> Some enterprise projects are private because they contain client-owned business logic and production data. Architecture and feature walkthroughs can be shared when appropriate.
-
-## Projects
+## 📈 GitHub Activity
 
 <div align="center">
 
-| Repository | Description | Status |
-| --- | --- | --- |
-| [python-automation/](python-automation) | Business automation scripts (CRM, PDF exports, data sync) | 🟡 Active |
-| [laravel-projects/](laravel-projects) | Laravel-based web applications | 🔜 Coming Soon |
-| [flutter-apps/](flutter-apps) | Cross-platform mobile applications | 🔜 Coming Soon |
-| [team-tools/](team-tools) | Team management & workflow tools | 🔜 Coming Soon |
+<img width="49%" alt="GitHub profile statistics" src="https://github-readme-stats.vercel.app/api?username=sarfaraz-ahmad-sa&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+<img width="49%" alt="Top languages in public repositories" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarfaraz-ahmad-sa&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+
+<img width="75%" alt="GitHub contribution streak" src="https://streak-stats.demolab.com?user=sarfaraz-ahmad-sa&theme=github-dark-blue&hide_border=true" />
+
+<img width="95%" alt="GitHub activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=sarfaraz-ahmad-sa&theme=github-compact&hide_border=true&area=true" />
 
 </div>
 
-## GitHub Activity
+> Public-repository statistics may not reflect private client work. These visualizations are provided by third-party services and depend on their availability.
+
+## 🔭 Currently Exploring
+
+- Faster, scalable ERP/CRM workflows and reporting automation.
+- SaaS platforms with secure multi-tenant and role-based architecture.
+- AI-assisted engineering and private/local LLM infrastructure.
+- Reliable development → staging → production release processes.
+
+## 🤝 Let's Connect
+
+Interested in collaborating on **enterprise software, backend/API engineering, ERP/CRM/POS integrations, mobile apps or SaaS products**? Get in touch.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sarfaraz-ahmad-sa&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Sarfaraz Ahmad's GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarfaraz-ahmad-sa&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Most used languages" />
+<a href="mailto:sarfaraza19990@gmail.com"><img alt="Email Sarfaraz" src="https://img.shields.io/badge/EMAIL-sarfaraza19990%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/sarfaraz-ahmad-511a46238"><img alt="Sarfaraz on LinkedIn" src="https://img.shields.io/badge/LINKEDIN-Sarfaraz%20Ahmad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/sarfaraz-ahmad-sa"><img alt="Sarfaraz on GitHub" src="https://img.shields.io/badge/GITHUB-sarfaraz--ahmad--sa-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-<img src="https://streak-stats.demolab.com?user=sarfaraz-ahmad-sa&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
+**“I build software that makes complex business operations simpler.”**
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=sarfaraz-ahmad-sa&theme=github-compact&hide_border=true&area=true" alt="Sarfaraz Ahmad's contribution graph" />
-
-</div>
-
-## What I'm Working On
-
-- Improving ERP and CRM performance for high-volume business operations
-- Building scalable SaaS products with secure role-based access
-- Automating development, testing, deployment, and reporting workflows
-- Exploring local AI-assisted development and private LLM infrastructure
-
-## Let's Connect
-
-I'm open to **Senior Full-Stack**, **Backend Engineering**, **Software Development Lead**, and enterprise application opportunities.
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-sarfaraza19990%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarfaraza19990@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sarfaraz_Ahmad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarfaraz-ahmad-511a46238)
-[![GitHub](https://img.shields.io/badge/GitHub-sarfaraz--ahmad--sa-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sarfaraz-ahmad-sa)
-
-### “I build software that makes complex business operations simpler.”
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,100:0D1117&height=110&section=footer)
+<img width="100%" alt="Footer decoration" src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,100:0D1117&height=105&section=footer" />
 
 </div>
-
-
----
-
-🌐 **[Portfolio Website](https://sarfaraz-ahmad-sa.github.io/sarfaraz-ahmad-sa/)** · [Portfolio source](docs/) (enable GitHub Pages from `/docs` to publish).
